@@ -1,5 +1,5 @@
 # Artificial-Intelligence-course
-AI course 
+AI course  
 姓名：相明  
 职称：副教授  
 办公室：西一楼B734  
